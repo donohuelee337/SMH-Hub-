@@ -1,4 +1,4 @@
-# SMH-collab-hub
+# SMH-Hub-
 
 **Sister-companies collaboration hub** — bidding and scheduling across St. Matthews Home, St. Matthews Electric, St. Matthews Plumbing, and Huckleberry Handyman (GC: HH / Doug & Bryan). Standalone from the SMH client/PM Apps Script project.
 
@@ -16,8 +16,8 @@ The **SMH-app** monorepo holds the existing Project Manager + client portal. It 
 After `git init` (already done locally if you cloned from a machine that ran setup):
 
 ```bash
-cd SMH-collab-hub
-git remote add origin https://github.com/donohuelee337/SMH-collab-hub.git
+cd SMH-Hub-
+git remote add origin https://github.com/donohuelee337/SMH-Hub-.git
 git push -u origin main
 ```
 

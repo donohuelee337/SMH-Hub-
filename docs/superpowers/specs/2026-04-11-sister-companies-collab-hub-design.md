@@ -1,4 +1,4 @@
-> **Working copy:** This repo (**SMH-collab-hub**) is the primary place to evolve hub **implementation** docs. The same specification text also lives in **SMH-app** at `docs/superpowers/specs/2026-04-11-sister-companies-collab-hub-design.md`. After substantive edits, sync the other copy (or delete the duplicate once you declare a single canonical repo).
+> **Working copy:** This repo (**SMH-Hub-**) is the primary place to evolve hub **implementation** docs. The same specification text also lives in **SMH-app** at `docs/superpowers/specs/2026-04-11-sister-companies-collab-hub-design.md`. After substantive edits, sync the other copy (or delete the duplicate once you declare a single canonical repo).
 
 ---
 
